@@ -1,3 +1,3 @@
 ### Markdown Widget
 
-Take in your input and applies bold and italic markdown.
+Take in user input and applies bold and italic markdown.
